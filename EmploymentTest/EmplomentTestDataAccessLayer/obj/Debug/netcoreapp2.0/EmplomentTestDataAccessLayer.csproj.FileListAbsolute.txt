@@ -1,0 +1,8 @@
+C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\bin\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.deps.json
+C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\bin\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.dll
+C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\bin\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.pdb
+C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.AssemblyInfo.cs
+C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.dll
+C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.pdb

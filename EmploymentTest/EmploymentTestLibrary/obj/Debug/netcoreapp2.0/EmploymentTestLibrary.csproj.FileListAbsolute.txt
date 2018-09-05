@@ -1,0 +1,12 @@
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.0\EmploymentTestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.0\EmploymentTestLibrary.AssemblyInfoInputs.cache
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.0\EmploymentTestLibrary.AssemblyInfo.cs
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.0\EmploymentTestLibrary.deps.json
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.0\EmploymentTestLibrary.dll
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.0\EmploymentTestLibrary.pdb
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.0\EmploymentTestLibrary.dll
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.0\EmploymentTestLibrary.pdb
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.0\EmploymentTestLibrary.csprojAssemblyReference.cache
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.dll
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.pdb
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.0\EmploymentTestLibrary.csproj.CopyComplete

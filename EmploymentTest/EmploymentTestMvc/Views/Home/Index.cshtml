@@ -1,0 +1,93 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    function addToCalculate(text) {
+        let calculatorInput = $("#calculatorText").val();
+        $("#calculatorText").val(calculatorInput + text);
+
+    }
+
+    function calculate() {
+
+        const calculation = $("#calculatorText").val();
+
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("CalculateField", "Home")',           
+            data: { calculation },           
+            success: function (data) { 
+                $("#calculatorText").val(data.answer);
+                $("#returnMessage").text(data.dailyInterestCharge);
+            },
+            error: function () { }
+        });
+    }
+
+</script>
+
+<div>
+    <table>
+        <tr>
+            <td colspan="4">
+                <input id="calculatorText" type="text" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button onclick="addToCalculate('7')">7</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('8')">8</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('9')">9</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('-')">-</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button onclick="addToCalculate('4')">4</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('5')">5</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('6')">6</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('+')">+</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button onclick="addToCalculate('1')">1</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('2')">2</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('3')">3</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('/')">/</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button onclick="addToCalculate('0')">0</button>
+            </td>
+            <td>
+                <button onclick="addToCalculate('.')">.</button>
+            </td>
+            <td colspan="2">
+                <button onclick="calculate('=')" style="width:100%">=</button>
+            </td>
+        </tr>
+    </table>
+    <p>Daily Interest Charge</p>
+    <p id="returnMessage"></p>
+</div>

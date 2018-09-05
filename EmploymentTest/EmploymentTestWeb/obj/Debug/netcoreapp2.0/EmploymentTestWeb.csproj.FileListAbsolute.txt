@@ -1,0 +1,14 @@
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\obj\Debug\netcoreapp2.0\EmploymentTestWeb.csprojAssemblyReference.cache
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\obj\Debug\netcoreapp2.0\EmploymentTestWeb.csproj.CoreCompileInputs.cache
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\obj\Debug\netcoreapp2.0\EmploymentTestWeb.AssemblyInfoInputs.cache
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\obj\Debug\netcoreapp2.0\EmploymentTestWeb.AssemblyInfo.cs
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\bin\Debug\netcoreapp2.0\EmploymentTestWeb.deps.json
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\bin\Debug\netcoreapp2.0\EmploymentTestWeb.runtimeconfig.json
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\bin\Debug\netcoreapp2.0\EmploymentTestWeb.runtimeconfig.dev.json
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\bin\Debug\netcoreapp2.0\EmploymentTestWeb.dll
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\bin\Debug\netcoreapp2.0\EmploymentTestWeb.pdb
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\bin\Debug\netcoreapp2.0\EmploymentTestLibrary.dll
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\bin\Debug\netcoreapp2.0\EmploymentTestLibrary.pdb
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\obj\Debug\netcoreapp2.0\EmploymentTestWeb.csproj.CopyComplete
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\obj\Debug\netcoreapp2.0\EmploymentTestWeb.dll
+C:\Users\Chiller\source\repos\EmploymentTest\EmploymentTestWeb\obj\Debug\netcoreapp2.0\EmploymentTestWeb.pdb
