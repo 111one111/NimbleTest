@@ -6,3 +6,12 @@ C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\obj\De
 C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.AssemblyInfo.cs
 C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.dll
 C:\Users\Chiller\source\repos\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.pdb
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\bin\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.deps.json
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\bin\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.dll
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\bin\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.pdb
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.csprojAssemblyReference.cache
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.AssemblyInfoInputs.cache
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.AssemblyInfo.cs
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.dll
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.0\EmplomentTestDataAccessLayer.pdb

@@ -1,5 +1,6 @@
-﻿using EmploymentTestLibrary;
-using EmploymentTestLibrary.DBModels;
+﻿using EmploymentTestDataAccessLayer;
+using EmploymentTestDataAccessLayer.DBModels;
+using EmploymentTestLibrary;
 using FluentAssertions;
 using Moq;
 using NUnit.Framework;
@@ -28,11 +29,11 @@ namespace EmploymentTestUnitTest
             var result = logic.EmploymentTest("1+1");
 
             //assert
-            result.Should().Be(test);            
+            result.Answer.Should().Be(test);            
         }
 
         [Test]
-        [TestCase("a", false), TestCase("1+1", true), TestCase("1 - 1", true), TestCase("1 @ 1", true), TestCase("2 * 1", true), TestCase("8 * 2", true), TestCase("8 / 2", false)]
+        [TestCase("a", false), TestCase("1+1", true), TestCase("1 - 1", true), TestCase("1 @ 1", true), TestCase("2 * 1", true), TestCase("8 * 2", true), TestCase("8 / 2", true)]
         public void Valid_Calculation_Should_Return(string input, bool answer)
         {
             //arrange          
