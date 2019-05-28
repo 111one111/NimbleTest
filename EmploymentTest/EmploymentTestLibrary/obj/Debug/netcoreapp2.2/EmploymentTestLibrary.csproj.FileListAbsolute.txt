@@ -1,0 +1,12 @@
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.2\EmploymentTestLibrary.deps.json
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.2\EmploymentTestLibrary.dll
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.2\EmploymentTestLibrary.pdb
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.dll
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\bin\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.pdb
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.2\EmploymentTestLibrary.csprojAssemblyReference.cache
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.2\EmploymentTestLibrary.csproj.CoreCompileInputs.cache
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.2\EmploymentTestLibrary.AssemblyInfoInputs.cache
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.2\EmploymentTestLibrary.AssemblyInfo.cs
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.2\EmploymentTestLibrary.csproj.CopyComplete
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.2\EmploymentTestLibrary.dll
+C:\Repository\NimbleTest\EmploymentTest\EmploymentTestLibrary\obj\Debug\netcoreapp2.2\EmploymentTestLibrary.pdb

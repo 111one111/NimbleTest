@@ -1,0 +1,9 @@
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\bin\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.deps.json
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\bin\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.dll
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\bin\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.pdb
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.csprojAssemblyReference.cache
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.AssemblyInfoInputs.cache
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.AssemblyInfo.cs
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.dll
+C:\Repository\NimbleTest\EmploymentTest\EmplomentTestDataAccessLayer\obj\Debug\netcoreapp2.2\EmplomentTestDataAccessLayer.pdb
